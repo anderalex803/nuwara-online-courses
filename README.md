@@ -16,4 +16,4 @@ Folder to open: [Notebooks4Coursera](https://github.com/yohanesnuwara/my-online-
 Instructor: Prof. Johan Jansson, Prof. Johan Hoffman
 University: KTH Royal Institute of Technology, Sweden
 
-Folder to open: [HPFEM_KTH]()
+Folder to open: [HPFEM_KTH](https://github.com/yohanesnuwara/my-online-courses/tree/master/HPFEM_KTH)
