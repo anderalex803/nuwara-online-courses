@@ -4,7 +4,7 @@ A repo for my online courses from EdX, Coursera, etc.
 
 ## Computers, Waves, Simulations (Coursera)
 
-Instructor: Prof. Heiner Igel
+Instructor: Prof. Heiner Igel<br>
 University: Ludwig-Maximillians University, Germany
 
 Folder to open: [Notebooks4Coursera](https://github.com/yohanesnuwara/my-online-courses/tree/master/Notebooks4Coursera)
@@ -13,7 +13,7 @@ Folder to open: [Notebooks4Coursera](https://github.com/yohanesnuwara/my-online-
 
 ## High Performance Finite-Element Modeling: Part 1 (EdX)
 
-Instructor: Prof. Johan Jansson, Prof. Johan Hoffman
+Instructor: Prof. Johan Jansson, Prof. Johan Hoffman<br>
 University: KTH Royal Institute of Technology, Sweden
 
 Folder to open: [HPFEM_KTH](https://github.com/yohanesnuwara/my-online-courses/tree/master/HPFEM_KTH)
