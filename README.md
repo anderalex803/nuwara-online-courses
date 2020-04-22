@@ -23,4 +23,4 @@ Folder to open: [HPFEM_KTH](https://github.com/yohanesnuwara/my-online-courses/t
 Instructor: Dr. Florian Marquardt<br>
 University: Friedrich-Alexander University (FAU) Erlangen-Nürnberg, Germany
 
-Folder to open: [ML_for_physicist](https://github.com/yohanesnuwara/my-online-courses/tree/master/HPFEM_KTH)
+Folder to open: [ML_for_physicist](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/ML_for_physicist)
