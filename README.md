@@ -5,7 +5,7 @@ A repo for my online courses from EdX, Coursera, etc.
 ## Computers, Waves, Simulations (Coursera)
 
 Instructor: Prof. Heiner Igel<br>
-University: Ludwig-Maximillians University, Germany
+University: Ludwig-Maximillians University (LMU), Germany
 
 Folder to open: [Notebooks4Coursera](https://github.com/yohanesnuwara/my-online-courses/tree/master/Notebooks4Coursera)
 
@@ -17,3 +17,10 @@ Instructor: Prof. Johan Jansson, Prof. Johan Hoffman<br>
 University: KTH Royal Institute of Technology, Sweden
 
 Folder to open: [HPFEM_KTH](https://github.com/yohanesnuwara/my-online-courses/tree/master/HPFEM_KTH)
+
+## Machine Learning for Physicists (Zoom webinar, [link](https://pad.gwdg.de/s/HJtiTE__U))
+
+Instructor: Dr. Florian Marquardt<br>
+University: Friedrich-Alexander University (FAU) Erlangen-Nürnberg, Germany
+
+Folder to open: [ML_for_physicist](https://github.com/yohanesnuwara/my-online-courses/tree/master/HPFEM_KTH)
