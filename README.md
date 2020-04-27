@@ -21,6 +21,8 @@ Folder to open: [HPFEM_KTH](https://github.com/yohanesnuwara/my-online-courses/t
 ## Machine Learning for Physicists (Zoom webinar, [link](https://pad.gwdg.de/s/HJtiTE__U))
 
 Instructor: Prof. Florian Marquardt<br>
-University: Friedrich-Alexander University (FAU) Erlangen-Nürnberg, Germany
+University: Friedrich-Alexander University (FAU) Erlangen-Nürnberg, Germany<br>
+
+Video lectures (2019): [video](https://podcasts.apple.com/us/podcast/id1490099216)
 
 Folder to open: [ML_for_physicist](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/ML_for_physicist)
