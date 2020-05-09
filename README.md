@@ -18,6 +18,13 @@ University: KTH Royal Institute of Technology, Sweden
 
 Folder to open: [HPFEM_KTH](https://github.com/yohanesnuwara/my-online-courses/tree/master/HPFEM_KTH)
 
+## Practical Numerical Methods with Python (Open EdX GWU)
+
+Instructor: Prof. Lorena Barba
+University: George Washington University, United States
+
+Folder to open: [numerical-mooc-barba](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/numerical-mooc-barba)
+
 ## Machine Learning for Physicists (Zoom webinar, [link](https://pad.gwdg.de/s/HJtiTE__U))
 
 Instructor: Prof. Florian Marquardt<br>
