@@ -8,12 +8,13 @@ A repo for my online courses from EdX, Coursera, etc.
 2. [Finite Element Analysis](https://www.youtube.com/watch?v=oNqSzzycRhw) by Prof. Klaus-Jürgen Bathe, MIT
 3. [Computational Fluid Dynamics](https://www.youtube.com/playlist?list=PL30F4C5ABCE62CB61) by Prof. Lorena Barba, George Washington Uni
 4. [Reservoir Simulation](https://www.youtube.com/channel/UCkCwNnLZnRoaHYFyKTdySDw) by Prof. John T. Foster, UT Austin
-5. [Reservoir Geomechanics](https://www.youtube.com/channel/UCFZu4RgaS8pKsfO75979fvg/playlists) by Prof. Nicolas Espinoza, UT Austin
+5. [Reservoir Geomechanics](https://www.youtube.com/channel/UCFZu4RgaS8pKsfO75979fvg/playlists) by Dr. Nicolas Espinoza, UT Austin
 
 ## Free courseware materials
 
 1. [Petroleum Geology](https://ocw.tudelft.nl/courses/petroleum-geology/) by Prof. Stefan Luthi, Delft  
 2. [Rock Mechanics](https://ocw.tudelft.nl/courses/principles-of-rock-mechanics/) by Dr. Ruud Weijermars, Delft
+3. [Numerical Method](http://folk.ntnu.no/leifh/teaching/tkt4140/._main000.html) by Leif Rune Hellevik
 
 ## Archived courses in EdX
 
