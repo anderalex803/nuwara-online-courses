@@ -34,6 +34,7 @@ Instructor: Prof. Johan Jansson, Prof. Johan Hoffman<br>
 University: KTH Royal Institute of Technology, Sweden
 
 Folder to open: [HPFEM_KTH](https://github.com/yohanesnuwara/my-online-courses/tree/master/HPFEM_KTH)
+Learning material: [Solving PDEs in Python - The FEniCS Tutorial Volume I](https://fenicsproject.org/pub/tutorial/html/ftut1.html) by Hans Petter Langtangen and Anders Logg
 
 ## Practical Numerical Methods with Python (Open EdX GWU)
 
