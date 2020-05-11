@@ -10,6 +10,15 @@ A repo for my online courses from EdX, Coursera, etc.
 4. [Reservoir Simulation](https://www.youtube.com/channel/UCkCwNnLZnRoaHYFyKTdySDw) by Prof. John T. Foster, UT Austin
 5. [Reservoir Geomechanics](https://www.youtube.com/channel/UCFZu4RgaS8pKsfO75979fvg/playlists) by Prof. Nicolas Espinoza, UT Austin
 
+## Free courseware materials
+
+1. [Petroleum Geology](https://ocw.tudelft.nl/courses/petroleum-geology/) by Prof. Stefan Luthi, Delft  
+2. [Rock Mechanics](https://ocw.tudelft.nl/courses/principles-of-rock-mechanics/) by Dr. Ruud Weijermars, Delft
+
+## Archived courses in EdX
+
+1. [Fluid Mechanics](https://courses.edx.org/courses/course-v1:EPFLx+MF201x+1T2018/course/) (Lectures in French: Mécanique des Fluides), Ecole Polytechnique Fédérale de Lausanne
+
 ## Computers, Waves, Simulations (Coursera)
 
 Instructor: Prof. Heiner Igel<br>
