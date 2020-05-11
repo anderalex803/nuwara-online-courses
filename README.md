@@ -29,6 +29,10 @@ Folder to open: [Notebooks4Coursera](https://github.com/yohanesnuwara/my-online-
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/coursera/master)
 
+## Simulation and Modeling of Natural Processes (Coursera)
+
+## Statistical Learning (EdX)
+
 ## High Performance Finite-Element Modeling: Part 1 (EdX)
 
 Instructor: Prof. Johan Jansson, Prof. Johan Hoffman<br>
