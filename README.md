@@ -29,6 +29,13 @@ Folder to open: [Notebooks4Coursera](https://github.com/yohanesnuwara/my-online-
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/coursera/master)
 
+## Computer Vision Basics (Coursera)
+
+Instructor: Radhakrishna Dasari<br>
+University: University at Buffalo, The State University of New York<br>
+
+Folder to open: [computer-vision](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/computer-vision) (Course practices in MATLAB, open in Colab)
+
 ## Simulation and Modeling of Natural Processes (Coursera)
 
 ## Statistical Learning (EdX)
