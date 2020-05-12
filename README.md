@@ -14,7 +14,7 @@ A repo for my online courses from EdX, Coursera, etc.
 
 1. [Petroleum Geology](https://ocw.tudelft.nl/courses/petroleum-geology/) by Prof. Stefan Luthi, Delft  
 2. [Rock Mechanics](https://ocw.tudelft.nl/courses/principles-of-rock-mechanics/) by Dr. Ruud Weijermars, Delft
-3. [Numerical Method](http://folk.ntnu.no/leifh/teaching/tkt4140/._main000.html) by Leif Rune Hellevik
+3. [Numerical Method](http://folk.ntnu.no/leifh/teaching/tkt4140/._main000.html) by Leif Rune Hellevik, NTNU
 
 ## Archived courses in EdX
 
