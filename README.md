@@ -13,6 +13,7 @@ A repo for my online courses from EdX, Coursera, etc.
 |High Performance Finite-Element Modeling: Part 1|EdX|Prof. Johan Jansson,<br> Prof. Johan Hoffman|KTH, Sweden|[HPFEM_KTH](https://github.com/yohanesnuwara/my-online-courses/tree/master/HPFEM_KTH)|[Solving PDEs in Python - The FEniCS Tutorial Volume I](https://fenicsproject.org/pub/tutorial/html/ftut1.html)|
 |Practical Numerical Methods with Python|Open EdX|Prof. Lorena Barba|George Washington University|[numerical-mooc-barba](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/numerical-mooc-barba)||
 |Machine Learning for Physicists|Zoom course|Prof. Florian Marquardt|Friedrich-Alexander University (FAU) Erlangen-Nürnberg, Germany|[Github Repo](github.com/yohanesnuwara/ML_for_physicist)|[Course website](https://pad.gwdg.de/s/HJtiTE__U)
+|High-Performance Computing with Python 3.x|Udemy|||[hpc-python]()||
 
 
 ## Free lecture recordings in YouTube
