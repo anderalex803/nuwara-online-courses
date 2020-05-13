@@ -2,6 +2,19 @@
 
 A repo for my online courses from EdX, Coursera, etc.
 
+## Course Folder
+
+|Course|MOOC|Instructor|University|Folder Link|External material|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Computers, Waves, Simulations|Coursera|Prof. Heiner Igel|Ludwig-Maximillians<br> University (LMU), Germany|[Notebooks4Coursera](https://github.com/yohanesnuwara/my-online-courses/tree/master/Notebooks4Coursera)||
+|Computer Vision Basics|Coursera|Radhakrishna Dasari|University at Buffalo,<br> The State University of New York|[computer-vision](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/computer-vision)<br> (Course practices in MATLAB, open in Colab)|
+|Simulation and Modeling of Natural Processes|Coursera|Prof. Bastien Chopard|University of Geneva|||
+|Statistical Learning|EdX|Stanford University||||
+|High Performance Finite-Element Modeling: Part 1|EdX|Prof. Johan Jansson,<br> Prof. Johan Hoffman|KTH, Sweden|[HPFEM_KTH](https://github.com/yohanesnuwara/my-online-courses/tree/master/HPFEM_KTH)|[Solving PDEs in Python - The FEniCS Tutorial Volume I](https://fenicsproject.org/pub/tutorial/html/ftut1.html)|
+|Practical Numerical Methods with Python|Open EdX|Prof. Lorena Barba|George Washington University|[numerical-mooc-barba](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/numerical-mooc-barba)||
+|Machine Learning for Physicists|Zoom course|Prof. Florian Marquardt|Friedrich-Alexander University (FAU) Erlangen-Nürnberg, Germany|[Github Repo](github.com/yohanesnuwara/ML_for_physicist)|[Course website](https://pad.gwdg.de/s/HJtiTE__U)
+
+
 ## Free lecture recordings in YouTube
 
 1. [Continuum Mechanics](https://www.youtube.com/playlist?list=PLq-Gm0yRYwTg9gY-xhVpZ5LoctJVi-m2S) by Prof. Romesh Batra, Virginia Tech Uni
@@ -41,15 +54,3 @@ Note: no success, error code in notebook:
 ```
 Could not find DOLFIN pkg-config file. Please make sure appropriate paths are set.
 ```
-
-## Course Folder
-
-|Course|MOOC|Instructor|University|Folder Link|External material|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|Computers, Waves, Simulations|Coursera|Prof. Heiner Igel|Ludwig-Maximillians<br> University (LMU), Germany|[Notebooks4Coursera](https://github.com/yohanesnuwara/my-online-courses/tree/master/Notebooks4Coursera)||
-|Computer Vision Basics|Coursera|Radhakrishna Dasari|University at Buffalo,<br> The State University of New York|[computer-vision](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/computer-vision)<br> (Course practices in MATLAB, open in Colab)|
-|Simulation and Modeling of Natural Processes|Coursera|Prof. Bastien Chopard|University of Geneva|||
-|Statistical Learning|EdX|Stanford University||||
-|High Performance Finite-Element Modeling: Part 1|EdX|Prof. Johan Jansson,<br> Prof. Johan Hoffman|KTH, Sweden|[HPFEM_KTH](https://github.com/yohanesnuwara/my-online-courses/tree/master/HPFEM_KTH)|[Solving PDEs in Python - The FEniCS Tutorial Volume I](https://fenicsproject.org/pub/tutorial/html/ftut1.html)|
-|Practical Numerical Methods with Python|Open EdX|Prof. Lorena Barba|George Washington University|[numerical-mooc-barba](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/numerical-mooc-barba)||
-|Machine Learning for Physicists|Zoom course|Prof. Florian Marquardt|Friedrich-Alexander University (FAU) Erlangen-Nürnberg, Germany|[Github Repo](github.com/yohanesnuwara/ML_for_physicist)|[Course website](https://pad.gwdg.de/s/HJtiTE__U)
