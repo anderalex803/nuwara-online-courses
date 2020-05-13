@@ -24,8 +24,8 @@ A repo for my online courses from EdX, Coursera, etc.
 
 **Temporary installation:**
 ```
-TEMP=~/.user-temp conda install conda-forge fenics
-TEMP=~/.user-temp conda install conda-forge mshr=2018 
+TEMP=~/.user-temp conda install -c conda-forge fenics
+TEMP=~/.user-temp conda install -c conda-forge mshr=2018 
 ```
 Note: mshr is not available in the newest fenics
 
