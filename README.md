@@ -20,6 +20,28 @@ A repo for my online courses from EdX, Coursera, etc.
 
 1. [Fluid Mechanics](https://courses.edx.org/courses/course-v1:EPFLx+MF201x+1T2018/course/) (Lectures in French: Mécanique des Fluides), Ecole Polytechnique Fédérale de Lausanne
 
+## FEniCS working in my GWDG Jupyter
+
+**Temporary installation:**
+```
+TEMP=~/.user-temp conda install conda-forge fenics
+TEMP=~/.user-temp conda install conda-forge mshr=2018 
+```
+Note: mshr is not available in the newest fenics
+
+**Installation in a new environment:**
+```
+. /opt/conda/etc/profile.d/conda.sh
+conda create -y --prefix ./FENIX
+conda activate ./FENIX
+conda install -c conda-forge fenics
+python3 -m ipykernel install --user --name FENIX --display-name "FENIX"
+```
+Note: no success, error code in notebook:
+```
+Could not find DOLFIN pkg-config file. Please make sure appropriate paths are set.
+```
+
 ## Course Folder
 
 |Course|MOOC|Instructor|University|Folder Link|External material|
