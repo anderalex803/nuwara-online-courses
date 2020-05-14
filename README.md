@@ -4,6 +4,11 @@ A repo for my online courses from EdX, Coursera, etc.
 
 ## Course Folder
 
+> Some courses use different languages (non-Python). Here are Jupyter notebooks to run various languages in Google Colab:
+> * [Octave]() (issue: can't display image `imshow` through `!octave file.m`)
+> * [R]()
+> * [Fortran and C](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/various-languages-colab/Fortran_and_C.ipynb)
+
 |Course|MOOC|Instructor|University|Folder Link|External material|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Computers, Waves, Simulations|Coursera|Prof. Heiner Igel|Ludwig-Maximillians<br> University (LMU), Germany|[Notebooks4Coursera](https://github.com/yohanesnuwara/my-online-courses/tree/master/Notebooks4Coursera)||
