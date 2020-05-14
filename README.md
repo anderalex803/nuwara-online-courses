@@ -19,9 +19,12 @@ A repo for my online courses from EdX, Coursera, etc.
 |Practical Numerical Methods with Python|Open EdX|Prof. Lorena Barba|George Washington University|[numerical-mooc-barba](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/numerical-mooc-barba)||
 |Machine Learning for Physicists|Zoom course|Prof. Florian Marquardt|Friedrich-Alexander University (FAU) Erlangen-Nürnberg, Germany|[Github Repo](github.com/yohanesnuwara/ML_for_physicist)|[Course website](https://pad.gwdg.de/s/HJtiTE__U)
 |Introduction to Computational Fluid Dynamics|Udemy|Robert Spall, PhD|Utah State University|[cfd-robertspall](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/cfd-robertspall)<br> (Course practices in Fortran)||
-|High-Performance Computing with Python 3.x|Udemy|||[hpc-python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/hpc-python)||
-|Parallel and Concurrent Programming with Python|Udemy|||[parallel-programming-python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/parallel-programming-python)||
+|High-Performance Computing with Python 3.x|Udemy|Packt Publishing||[hpc-python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/hpc-python)||
+|Parallel and Concurrent Programming with Python|Udemy|Packt Publishing||[parallel-programming-python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/parallel-programming-python)||
 |Differential Equations in Action|Udacity|Prof. Jörn Loviscach|Bielefeld University of Applied Sciences|||
+
+## Datacamp courses
+1. Statistical Thinking in Python (Dr. Justin Bois, Caltech)
 
 ## Free lecture recordings in YouTube
 
