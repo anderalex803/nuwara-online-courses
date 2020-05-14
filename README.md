@@ -21,6 +21,7 @@ A repo for my online courses from EdX, Coursera, etc.
 |Introduction to Computational Fluid Dynamics|Udemy|Robert Spall, PhD|Utah State University|[cfd-robertspall](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/cfd-robertspall)<br> (Course practices in Fortran)||
 |High-Performance Computing with Python 3.x|Udemy|||[hpc-python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/hpc-python)||
 |Parallel and Concurrent Programming with Python|Udemy|||[parallel-programming-python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/parallel-programming-python)||
+|Differential Equations in Action|Udacity|Prof. Jörn Loviscach|Bielefeld University of Applied Sciences|||
 
 ## Free lecture recordings in YouTube
 
