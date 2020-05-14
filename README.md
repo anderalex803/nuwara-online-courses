@@ -42,8 +42,10 @@ A repo for my online courses from EdX, Coursera, etc.
 
 ## Materials, Notebooks, Github for Scientific Computation and PDEs
 
-1. Hans Petter Langtangen [Github](https://github.com/hplgit/prog4comp/tree/master/src/py/) linked to his [book]() "Programming for Computation with Python"  
-2. Hans Petter Langtangen [Github](https://github.com/hplgit/scipro-primer) linked to his [book]() "A Primer on Scientific Programming with Python" 
+1. Hans Petter Langtangen [Github](https://github.com/hplgit/prog4comp/tree/master/src/py/) linked to his [book]() "Programming for Computation with Python" (+ ODE/PDE)
+2. Hans Petter Langtangen [Github](https://github.com/hplgit/scipro-primer) linked to his [book]() "A Primer on Scientific Programming with Python" (+ ODE/PDE)
+3. jrjohansson [Github](https://github.com/jrjohansson/scientific-python-lectures) linked to his [PDF materials]() "Scientific Computing with Python"
+4. juanklopper [Github](https://github.com/juanklopper/Differential-Equations)
 
 ## FEniCS working in my GWDG Jupyter
 
