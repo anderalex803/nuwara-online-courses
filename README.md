@@ -22,8 +22,6 @@ A repo for my online courses from EdX, Coursera, etc.
 |High-Performance Computing with Python 3.x|Udemy|||[hpc-python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/hpc-python)||
 |Parallel and Concurrent Programming with Python|Udemy|||[parallel-programming-python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/parallel-programming-python)||
 
-
-
 ## Free lecture recordings in YouTube
 
 1. [Continuum Mechanics](https://www.youtube.com/playlist?list=PLq-Gm0yRYwTg9gY-xhVpZ5LoctJVi-m2S) by Prof. Romesh Batra, Virginia Tech Uni
@@ -41,6 +39,11 @@ A repo for my online courses from EdX, Coursera, etc.
 ## Archived courses in EdX
 
 1. [Fluid Mechanics](https://courses.edx.org/courses/course-v1:EPFLx+MF201x+1T2018/course/) (Lectures in French: Mécanique des Fluides), Ecole Polytechnique Fédérale de Lausanne
+
+## Materials, Notebooks, Github for Scientific Computation and PDEs
+
+1. Hans Petter Langtangen [Github](https://github.com/hplgit/prog4comp/tree/master/src/py/) linked to his [book]() "Programming for Computation with Python"  
+2. Hans Petter Langtangen [Github](https://github.com/hplgit/scipro-primer) linked to his [book]() "A Primer on Scientific Programming with Python" 
 
 ## FEniCS working in my GWDG Jupyter
 
