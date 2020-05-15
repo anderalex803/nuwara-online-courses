@@ -67,3 +67,35 @@
 * Solution Scheme
 * Boundary Conditions - System Matrices
 * Relaxation Method - Python: Static Eleasticity
+
+## Week 7. The Linear Finite-Element Method - Dynamic Elasticity
+> My [course note pdf]()
+
+* Introduction - Dynamic Elasticity
+* Solution Algorithm - 1D Elastic Case
+* Differentiation Matrices
+* 1D Elastic Wave Equation
+* h-adaptivity
+* Shape Functions
+* Dynamic Elasticity - Summary
+
+## Week 8. The Spectral-Element Method - Lagrange Interpolation, Numerical Integration
+> My [course note pdf]()
+
+* Introduction
+* Weak Form - Matrix Formulation
+* Element Level
+* Lagrange Interpolation
+* Python:Lagrange Interpolation
+* Numerical Integration
+* Python Numerical Integration
+
+## Week 9. The Spectral Element Method - 1D Elastic Wave Equation, Convergence Test
+> My [course note pdf]()
+
+* Lagrange Derivative - Legendre Polynomials
+* System of Equations - Element Level
+* Global Assembly
+* Python: 1D Homogeneous Case
+* Python: Heterogeneous Case in 1D
+* Convergence Test
