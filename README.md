@@ -11,7 +11,7 @@ A repo for my online courses from EdX, Coursera, etc.
 
 |Course|MOOC|Instructor|University|Folder Link|External material|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Computers, Waves, Simulations|Coursera|Prof. Heiner Igel|Ludwig-Maximillians<br> University (LMU), Germany|[Notebooks4Coursera](https://github.com/yohanesnuwara/my-online-courses/tree/master/Notebooks4Coursera)||
+|Computers, Waves, Simulations|Coursera|Prof. Heiner Igel|Ludwig-Maximillians<br> University (LMU), Germany|[Notebooks4Coursera](https://github.com/yohanesnuwara/my-online-courses/tree/master/Notebooks4Coursera)|[seismo-live](http://www.seismo-live.org/)|
 |Computer Vision Basics|Coursera|Radhakrishna Dasari|University at Buffalo,<br> The State University of New York|[computer-vision](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/computer-vision)<br> (Course practices in MATLAB, open in Colab)|
 |Simulation and Modeling of Natural Processes|Coursera|Prof. Bastien Chopard|University of Geneva|||
 |Statistical Learning|EdX||Stanford University|||
