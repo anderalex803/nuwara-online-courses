@@ -25,6 +25,8 @@ A repo for my online courses from EdX, Coursera, etc.
 
 ## Datacamp courses
 1. Statistical Thinking in Python (Dr. Justin Bois, Caltech)
+* Part 1 files initialized with `01_01_` for Chapter 1, `01_02_` for Chapter 2, and so on...
+* Part 2 files initialized with `02_01_` for Chapter 1, `02_02_` for Chapter 2, and so on...
 
 ## Free lecture recordings in YouTube
 
