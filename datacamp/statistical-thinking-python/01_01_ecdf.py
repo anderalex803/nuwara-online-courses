@@ -11,13 +11,18 @@ def ecdf(data):
 
     return x, y
 
-# Compute ECDF for versicolor data: x_vers, y_vers
+# Compute ECDFs
+x_set, y_set = ecdf(setosa_petal_length)
 x_vers, y_vers = ecdf(versicolor_petal_length)
+x_virg, y_virg = ecdf(virginica_petal_length)
 
-# Generate plot
+# Plot all ECDFs on the same plot
+plt.plot(x_set, y_set, marker='.', linestyle='none')
 plt.plot(x_vers, y_vers, marker='.', linestyle='none')
+plt.plot(x_virg, y_virg, marker='.', linestyle='none')
 
-# Label the axes
+# Annotate the plot
+plt.legend(('setosa', 'versicolor', 'virginica'), loc='lower right')
 plt.xlabel('petal length (cm)')
 plt.ylabel('ECDF')
 
