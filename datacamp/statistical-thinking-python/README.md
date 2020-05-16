@@ -64,6 +64,11 @@
 <img src="https://user-images.githubusercontent.com/51282928/82123577-4f6ab980-97c4-11ea-82e8-d78ca8ae9f92.png" width="500"/>
 </div>
 
+Insecticide case [02_04_insecticide_bootstrap_hypothesis.py](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_04_insecticide_bootstrap_hypothesis_test.py)
+> <div>
+<img src="https://user-images.githubusercontent.com/51282928/82123577-4f6ab980-97c4-11ea-82e8-d78ca8ae9f92.png" width="500"/>
+</div>
+
 6. A/B Testing
 
 > Challenging tasks of hypothesis test (A/B hypothesis testing):
@@ -82,6 +87,12 @@
 
 7. Correlation test
 
+[02_04_fertility_correlation_testing.py](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_04_fertility_correlation_testing.py)
 
+> <div>
+<img src="https://user-images.githubusercontent.com/51282928/82125793-a5def480-97d2-11ea-8aa5-7c9127e89fa6.png" width="500"/>
+</div>
 
-Insecticide case is similar to the case of frog bootstrap two-sample testing[02_04_insecticide.py]()
+> <div>
+<img src="https://user-images.githubusercontent.com/51282928/82125820-d0c94880-97d2-11ea-8430-1a40853da044.png" width="500"/>
+</div>
