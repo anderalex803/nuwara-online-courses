@@ -51,6 +51,13 @@
 * The p-value is the fraction of your simulated data sets for which the test statistic is at least as extreme as for the real data
 
 > Note: need some time to digest the bootstrap hypothesis testing and p-value concept. Look for the two problems with two scripts here:
+
+[02_03_bootstrap_one_sample_testing.py](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_03_bootstrap_one_sample_testing.py)
 > <div>
-<img src="https://user-images.githubusercontent.com/51282928/82122083-9e602100-97bb-11ea-9d1b-d8624402e773.png" width="300"/>
+<img src="https://user-images.githubusercontent.com/51282928/82122083-9e602100-97bb-11ea-9d1b-d8624402e773.png" width="500"/>
+</div>
+
+[02_03_bootstrap_two_sample_testing.py](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_03_bootstrap_two_sample_testing.py)
+> <div>
+<img src="https://user-images.githubusercontent.com/51282928/82123577-4f6ab980-97c4-11ea-82e8-d78ca8ae9f92.png" width="500"/>
 </div>
