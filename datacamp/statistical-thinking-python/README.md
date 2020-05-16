@@ -1,5 +1,7 @@
 # Key insights from Statistical Thinking In Python course
 
+## Part 1
+
 1. Graphical Exploratory Data Analysis (EDA) vs Quantitative EDA
 2. In graphical EDA, the **CDF** (cumulative distribution function) plot is more robust than **histogram** and **bee-swarm** plot. Box-whisker plot is also another robust representation to identify the data outliers. Histogram suffers from **binning bias** (its disadvantage). In the histogram below, lesser bin tends to appear like majority votes for McCain (skewed to the right), however in real fact (with more bins) appears majority votes for Obama (skewed to the left). 
 
@@ -25,3 +27,14 @@
 ![image](https://user-images.githubusercontent.com/51282928/82116172-e5d1b780-9791-11ea-9ced-8acba9a16510.png)
 
 10. In normal distribution, the peak of PDF is the **mean** of data. The **std** is half of the width of PDF
+
+## Part 2
+
+1. Anscombe quartet: multiple data could have the same summary statistics and have the same linear regression line. E.g. all of the following data have exactly the same regression line, the same mean, the same variance, and the same sum sq. residual. 
+
+![image](https://user-images.githubusercontent.com/51282928/82118506-14578e80-97a2-11ea-9e2f-5e34fe6d0b20.png)
+
+2. Bootstrapping: to replicate a data based on its summary statistics (e.g. mean and variance). Purpose: if we have only 20 data, and predict what the data would be like in the next 1000 data recorded. 
+3. Pair bootstrapping: to know how the regression line will vary (confidence interval)
+
+![image](https://user-images.githubusercontent.com/51282928/82118438-af9c3400-97a1-11ea-876c-aa2df6fdcfe0.png)
