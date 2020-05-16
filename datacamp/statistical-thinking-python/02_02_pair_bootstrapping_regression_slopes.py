@@ -1,5 +1,7 @@
 "Plot histogram of pair-bootstrapped regression slopes"
 
+from 02_02_pair_bootstrap import draw_bs_pairs_linreg
+
 # Generate replicates of slope and intercept using pairs bootstrap
 bs_slope_reps, bs_intercept_reps = draw_bs_pairs_linreg(illiteracy, fertility, size=1000)
 
