@@ -42,3 +42,10 @@
 4. Hypothesis test, p-value<br>
 * Permutation hypothesis test: compare a dataset with a dataset 
 * Bootstrap hypothesis test: compare a dataset with a value (e.g. comparing dataset of Michelson speed of light experiment with the mean value obtained by Newcomb)
+
+5. Hypothesis testing pipeling:
+* Clearly state the null hypothesis
+* Define your test statistic
+* Generate many sets of simulated data assuming the null hypothesis is true
+* Compute the test statistic for each simulated data set
+* The p-value is the fraction of your simulated data sets for which the test statistic is at least as extreme as for the real data
