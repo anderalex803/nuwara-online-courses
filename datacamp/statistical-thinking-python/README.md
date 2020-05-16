@@ -1,7 +1,10 @@
 # Key insights from Statistical Thinking In Python course
 
 1. Graphical Exploratory Data Analysis (EDA) vs Quantitative EDA
-2. In graphical EDA, the CDF (cumulative distribution function) plot is more robust than histogram and bee-swarm plot. Box-whisker plot is also another robust representation to identify the data outliers. 
+2. In graphical EDA, the **CDF** (cumulative distribution function) plot is more robust than **histogram** and **bee-swarm** plot. Box-whisker plot is also another robust representation to identify the data outliers. Histogram suffers from **binning bias** (its disadvantage). In the histogram below, lesser bin tends to appear like majority votes for McCain (skewed to the right), however in real fact (with more bins) appears majority votes for Obama (skewed to the left). 
+
+![image](https://user-images.githubusercontent.com/51282928/82116439-13b7fb80-9794-11ea-8f6c-b8cd74676e88.png)
+
 3. Covariance is a measure of distance of a data point in `x` to mean of `x`, compared to distance of a data point in `y` to mean of `y`
 
 ![image](https://user-images.githubusercontent.com/51282928/82116358-6fce5000-9793-11ea-99b4-a4329424dd30.png)
