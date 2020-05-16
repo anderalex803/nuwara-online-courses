@@ -1,3 +1,7 @@
+"Plot the bootstrapped regression lines"
+
+from 02_02_pair_bootstrap import draw_bs_pairs_linreg
+
 # Generate array of x-values for bootstrap lines: x
 x = np.array([0, 100])
 
