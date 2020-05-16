@@ -49,3 +49,8 @@
 * Generate many sets of simulated data assuming the null hypothesis is true
 * Compute the test statistic for each simulated data set
 * The p-value is the fraction of your simulated data sets for which the test statistic is at least as extreme as for the real data
+
+> Note: need some time to digest the bootstrap hypothesis testing and p-value concept. Look for the two problems with two scripts here:
+> <div>
+<img src="https://user-images.githubusercontent.com/51282928/82122083-9e602100-97bb-11ea-9d1b-d8624402e773.png" width="300"/>
+</div>
