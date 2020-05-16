@@ -43,6 +43,7 @@
 * Permutation hypothesis test: compare a dataset with a dataset 
 * Bootstrap hypothesis test: compare a dataset with a value (e.g. comparing dataset of Michelson speed of light experiment with the mean value obtained by Newcomb)
 * A/B test: find out whether a change in a strategy impacts occurences (e.g. does advertising "smoke causes cancer" reduce the number of smokers? so, compare the before and after number of smokers.)
+* Correlation test: find out whether two correlated data are coincident or incoincident (e.g. is the correlation between fertility and illiteracy is a matter of coincidence?)
 
 5. Hypothesis testing pipeling:
 * Clearly state the null hypothesis
@@ -78,3 +79,9 @@
 > <div>
 <img src="https://user-images.githubusercontent.com/51282928/82124657-be4b1100-97ca-11ea-94ad-8c6277d3e069.png" width="500"/>
 </div>
+
+7. Correlation test
+
+
+
+Insecticide case is similar to the case of frog bootstrap two-sample testing[02_04_insecticide.py]()
