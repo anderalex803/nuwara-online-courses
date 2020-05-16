@@ -42,6 +42,7 @@
 4. Hypothesis test, p-value<br>
 * Permutation hypothesis test: compare a dataset with a dataset 
 * Bootstrap hypothesis test: compare a dataset with a value (e.g. comparing dataset of Michelson speed of light experiment with the mean value obtained by Newcomb)
+* A/B test: find out whether a change in a strategy impacts occurences (e.g. does advertising "smoke causes cancer" reduce the number of smokers? so, compare the before and after number of smokers.)
 
 5. Hypothesis testing pipeling:
 * Clearly state the null hypothesis
@@ -50,7 +51,7 @@
 * Compute the test statistic for each simulated data set
 * The p-value is the fraction of your simulated data sets for which the test statistic is at least as extreme as for the real data
 
-> Note: need some time to digest the bootstrap hypothesis testing and p-value concept. Look for the two problems with two scripts here:
+> Challenging tasks of hypothesis test (bootstrap hypothesis testing):
 
 [02_03_bootstrap_one_sample_testing.py](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_03_bootstrap_one_sample_testing.py)
 > <div>
@@ -60,4 +61,20 @@
 [02_03_bootstrap_two_sample_testing.py](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_03_bootstrap_two_sample_testing.py)
 > <div>
 <img src="https://user-images.githubusercontent.com/51282928/82123577-4f6ab980-97c4-11ea-82e8-d78ca8ae9f92.png" width="500"/>
+</div>
+
+6. A/B Testing
+
+> Challenging tasks of hypothesis test (A/B hypothesis testing):
+
+[02_04_AB_test_civil_right_law.py](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_04_AB_test_civil_right_law.py)
+
+> <div>
+<img src="https://user-images.githubusercontent.com/51282928/82124638-9fe51580-97ca-11ea-9f5d-5eb4d3f985ed.png" width="500"/>
+</div>
+
+[02_04_AB_test_baseball_rule_change](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_04_AB_test_baseball_rule_change.py)
+
+> <div>
+<img src="https://user-images.githubusercontent.com/51282928/82124657-be4b1100-97ca-11ea-94ad-8c6277d3e069.png" width="500"/>
 </div>
