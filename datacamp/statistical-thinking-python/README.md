@@ -52,7 +52,9 @@
 * Compute the test statistic for each simulated data set
 * The p-value is the fraction of your simulated data sets for which the test statistic is at least as extreme as for the real data
 
-> Challenging tasks of hypothesis test (bootstrap hypothesis testing):
+### Bootstrap testing
+
+Challenging tasks of hypothesis test (bootstrap hypothesis testing):
 
 [02_03_bootstrap_one_sample_testing.py](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_03_bootstrap_one_sample_testing.py)
 > <div>
@@ -69,9 +71,9 @@ Insecticide case [02_04_insecticide_bootstrap_hypothesis.py](https://github.com/
 <img src="https://user-images.githubusercontent.com/51282928/82123577-4f6ab980-97c4-11ea-82e8-d78ca8ae9f92.png" width="500"/>
 </div>
 
-6. A/B Testing
+### A/B Testing
 
-> Challenging tasks of hypothesis test (A/B hypothesis testing):
+Challenging tasks of hypothesis test (A/B hypothesis testing):
 
 [02_04_AB_test_civil_right_law.py](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_04_AB_test_civil_right_law.py)
 
@@ -85,7 +87,9 @@ Insecticide case [02_04_insecticide_bootstrap_hypothesis.py](https://github.com/
 <img src="https://user-images.githubusercontent.com/51282928/82124657-be4b1100-97ca-11ea-94ad-8c6277d3e069.png" width="500"/>
 </div>
 
-7. Correlation test
+### Correlation test
+
+Challenging tasks of hypothesis test (correlation testing):
 
 [02_04_fertility_correlation_testing.py](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_04_fertility_correlation_testing.py)
 
