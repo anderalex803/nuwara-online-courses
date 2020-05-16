@@ -38,3 +38,7 @@
 3. Pair bootstrapping: to know how the regression line will vary (confidence interval)
 
 ![image](https://user-images.githubusercontent.com/51282928/82118438-af9c3400-97a1-11ea-876c-aa2df6fdcfe0.png)
+
+4. Hypothesis test, p-value<br>
+* Permutation hypothesis test: compare a dataset with a dataset 
+* Bootstrap hypothesis test: compare a dataset with a value (e.g. comparing dataset of Michelson speed of light experiment with the mean value obtained by Newcomb)
