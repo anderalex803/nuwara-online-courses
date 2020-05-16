@@ -27,6 +27,8 @@ A repo for my online courses from EdX, Coursera, etc.
 > Each course has pdf materials and code scripts
 
 1. [Statistical Thinking in Python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/statistical-thinking-python) (Dr. Justin Bois, Caltech)
+
+Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/README.md)
 * Part 1 files initialized with `01_01_` for Chapter 1, `01_02_` for Chapter 2, and so on...
 * Part 2 files initialized with `02_01_` for Chapter 1, `02_02_` for Chapter 2, and so on...
 
