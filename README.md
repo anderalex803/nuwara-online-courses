@@ -34,7 +34,7 @@ Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwar
 
 2. [Statistical Simulation in Python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/statistical-simulation-python) (Tushar Shanker, Uber)
 
-Key insights from the course: [README.md]()
+Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/edit/master/datacamp/statistical-simulation-python/README.md)
 
 ## Free lecture recordings in YouTube
 
