@@ -1,6 +1,6 @@
 # Introduction to Shell
 
-In the directory there are 4 files: summer.csv, spring.csv, autumn.csv, winter.csv
+In the directory there are 4 files: `summer.csv`, `spring.csv`, `autumn.csv`, `winter.csv`
 
 ## Wildcards (`*`, `[]`, `{}`, `?`)
 
