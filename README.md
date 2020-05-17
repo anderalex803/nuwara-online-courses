@@ -36,6 +36,10 @@ Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwar
 
 Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/edit/master/datacamp/statistical-simulation-python/README.md)
 
+3. [Introduction to Shell]()
+
+Key insights from the course: [README.md]()
+
 ## Free lecture recordings in YouTube
 
 1. [Continuum Mechanics](https://www.youtube.com/playlist?list=PLq-Gm0yRYwTg9gY-xhVpZ5LoctJVi-m2S) by Prof. Romesh Batra, Virginia Tech Uni
