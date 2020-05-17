@@ -14,6 +14,8 @@ E.g in the directory there are 4 files in folder `seasonal`: `summer.csv`, `spri
 
 ## Implementations of pipeline
 
+Piping is putting two or more commands in a single line
+
 `cut -d , -f 2 seasonal/summer.csv | grep -v Tooth | head -n 10`
 
 * select the first column from the summer data
@@ -77,3 +79,33 @@ for filename in $seasons; do echo $filename; done
 Write a loop that prints the last entry from July 2017 (2017-07) in every seasonal file.
 
 Script: `for file in seasonal/*.csv; do grep 2017-07 $file | tail -n 1; done`
+
+## Bash Scripting
+
+* Open a GNU Nano text editor and create a bash file: `nano file.sh`
+* Enter the script there, then save and exit (use keyboard keys below)
+* To run the shell file: `bash file.sh`
+* To redirect the output of that running that shell file *to* another new created file: `bash file.sh > filenew.sh`. 
+
+> Important: Redirect `>` to an output file is *different* from Piping `|`
+
+* The use of `$@`
+
+<div>
+<img src="https://user-images.githubusercontent.com/51282928/82154985-d8a0ef80-989b-11ea-8edd-fde2e5aea76d.png" width="700"/>
+</div>
+
+* The use of `$1`, `$2`, and so on to symbolize the order of `$@`
+
+<div>
+<img src="https://user-images.githubusercontent.com/51282928/82155011-20277b80-989c-11ea-93a5-f00c28622209.png" width="700"/>
+</div>
+
+## GNU Nano for Text Editor Keyboard Keys
+
+* `CTRL K` to copy
+* `CTRL P` to paste, do twice
+* `CTRL O` to save, then click `ENTER`
+* `CTRL X` to exit
+
+## And finally, do `CTRL C` to terminate a running program
