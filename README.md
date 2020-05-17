@@ -32,6 +32,10 @@ Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwar
 * Part 1 files initialized with `01_01_` for Chapter 1, `01_02_` for Chapter 2, and so on...
 * Part 2 files initialized with `02_01_` for Chapter 1, `02_02_` for Chapter 2, and so on...
 
+2. [Statistical Simulation in Python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/statistical-simulation-python) (Tushar Shanker, Uber)
+
+Key insights from the course: [README.md]()
+
 ## Free lecture recordings in YouTube
 
 1. [Continuum Mechanics](https://www.youtube.com/playlist?list=PLq-Gm0yRYwTg9gY-xhVpZ5LoctJVi-m2S) by Prof. Romesh Batra, Virginia Tech Uni
