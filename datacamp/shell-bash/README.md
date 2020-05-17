@@ -1,6 +1,6 @@
 # Introduction to Shell
 
-In the directory there are 4 files: `summer.csv`, `spring.csv`, `autumn.csv`, `winter.csv`
+E.g in the directory there are 4 files in folder `seasonal`: `summer.csv`, `spring.csv`, `autumn.csv`, `winter.csv`
 
 ## Wildcards (`*`, `[]`, `{}`, `?`)
 
@@ -42,7 +42,7 @@ In the directory there are 4 files: `summer.csv`, `spring.csv`, `autumn.csv`, `w
 * search "2017-07" in spring.csv
 * count how many "2017-07" in lines (word count)
 
-### Wrapping Up
+## Wrapping Up pipelines
 
 1. Use wc with appropriate parameters to list the number of lines in all of the seasonal data files. (Use a wildcard for the filenames instead of typing them all in by hand.)
 
@@ -55,3 +55,24 @@ Script: `wc -l seasonal/*.csv | grep -v total`
 3. Add two more stages to the pipeline that use sort -n and head -n 1 to find the file containing the fewest lines.
 
 Script: `wc -l seasonal/*.csv | grep -v total | sort -n | head -n 1`
+
+
+## Batch Processing
+
+Store a variable and print it:
+* Declare a variable: `colors`: `red, green, blue`
+* Print the variable: `echo $colors`
+
+For loop (to print all `.csv` files in the folder `seasonal`)
+
+Script 1: `for filename in seasonal/*.csv; do echo $filename; done`
+Script 2:<br>
+```
+seasons = seasonal/*.csv
+for filename in $seasons; do echo $filename; done
+```
+
+
+Write a loop that prints the last entry from July 2017 (2017-07) in every seasonal file.
+
+Script: `for file in seasonal/*.csv; do grep 2017-07 $file | tail -n 1; done`
