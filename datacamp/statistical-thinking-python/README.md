@@ -52,6 +52,8 @@
 * Compute the test statistic for each simulated data set
 * The p-value is the fraction of your simulated data sets for which the test statistic is at least as extreme as for the real data
 
+6. Part 2 is ended by a study case of Darwin evolutionary theory. See the tasks in [02_05_Darwin.md](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_05_Darwin.md)
+
 ### Bootstrap testing
 
 Challenging tasks of hypothesis test (bootstrap hypothesis testing):
@@ -100,3 +102,4 @@ Challenging tasks of hypothesis test (correlation testing):
 > <div>
 <img src="https://user-images.githubusercontent.com/51282928/82125820-d0c94880-97d2-11ea-8430-1a40853da044.png" width="500"/>
 </div>
+
