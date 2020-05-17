@@ -164,3 +164,35 @@ Remember, the data are stored in `bd_parent_scandens`, `bd_offspring_scandens`, 
 * Use the `pearson_r()` function you wrote in the prequel to this course to compute the Pearson correlation coefficient for G. scandens and G. fortis.
 * Acquire 1000 pairs bootstrap replicates of the Pearson correlation coefficient using the `draw_bs_pairs()` function you wrote in the previous exercise for *G. scandens* and *G. fortis*.
 * Compute the 95% confidence interval for both using your bootstrap replicates.
+
+## Measuring heritability
+
+[Task 12]()
+
+Remember that the Pearson correlation coefficient is the ratio of the covariance to the geometric mean of the variances of the two data sets. This is a measure of the correlation between parents and offspring, but might not be the best estimate of heritability. If we stop and think, it makes more sense to define heritability as the ratio of the covariance between parent and offspring to the variance of the parents alone. In this exercise, you will estimate the heritability and perform a pairs bootstrap calculation to get the 95% confidence interval.
+
+This exercise highlights a very important point. Statistical inference (and data analysis in general) is not a plug-n-chug enterprise. You need to think carefully about the questions you are seeking to answer with your data and analyze them appropriately. If you are interested in how heritable traits are, the quantity we defined as the heritability is more apt than the off-the-shelf statistic, the Pearson correlation coefficient.
+
+Remember, the data are stored in `bd_parent_scandens`, `bd_offspring_scandens`, `bd_parent_fortis`, and `bd_offspring_fortis`.
+
+**Instructions**
+
+* Write a function `heritability(parents, offspring)` that computes heritability defined as the ratio of the covariance of the trait in parents and offspring divided by the variance of the trait in the parents. Hint: Remind yourself of the `np.cov()` function we covered in the prequel to this course.
+* Use this function to compute the heritability for *G. scandens* and *G. fortis*.
+* Acquire 1000 bootstrap replicates of the heritability using pairs bootstrap for *G. scandens* and *G. fortis*.
+* Compute the 95% confidence interval for both using your bootstrap replicates.
+Print the results.
+
+## Is beak depth heritable at all in G. scandens?
+
+[Task 13]()
+
+The heritability of beak depth in *G. scandens* seems low. It could be that this observed heritability was just achieved by chance and beak depth is actually not really heritable in the species. You will test that hypothesis here. To do this, you will do a pairs permutation test.
+
+**Instructions**
+
+* Initialize your array of replicates of heritability. We will take 10,000 pairs permutation replicates.
+- Write a `for` loop to generate your replicates.
+- Permute the bd_parent_scandens array using `np.random.permutation()`.
+* Compute the heritability between the permuted array and the `bd_offspring_scandens` array using the `heritability()` function you wrote in the last exercise. Store the result in the replicates array.
+Compute the p-value as the number of replicates that are greater than the observed `heritability_scandens` you computed in the last exercise.
