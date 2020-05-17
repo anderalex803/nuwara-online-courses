@@ -14,5 +14,5 @@ e.g. **Throwing 2 dices simulation**
 </div>
 
 * [Step 1 and 2. Throwing a fair die](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-simulation-python/01_dice_step1and2.py)
-* [Step 3. Throwing two fair dices]https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-simulation-python/01_dice_step3.py
+* [Step 3. Throwing two fair dices](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-simulation-python/01_dice_step3.py
 * [Step 4. Simulating the dice game](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-simulation-python/01_dice_step4.py)
