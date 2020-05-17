@@ -78,7 +78,7 @@ The beak length data are stored as `bl_1975` and `bl_2012`, again with units of 
 
 ## Linear regressions
 
-[Task 6]()
+[Task 6](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_05_Task6.py)
 
 Perform a linear regression for both the 1975 and 2012 data. Then, perform pairs bootstrap estimates for the regression parameters. Report 95% confidence intervals on the slope and intercept of the regression line.
 
@@ -94,7 +94,7 @@ As a reminder, its call signature is `draw_bs_pairs_linreg(x, y, size=1)`, and i
 
 ## Displaying the linear regression results
 
-[Task 7]
+[Task 7](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_05_Task7.py)
 
 Now, you will display your linear regression results on the scatter plot, the code for which is already pre-written for you from your previous exercise. To do this, take the first 100 bootstrap samples (stored in `bs_slope_reps_1975`, `bs_intercept_reps_1975`, `bs_slope_reps_2012`, and `bs_intercept_reps_2012`) and plot the lines with `alpha=0.2` and `linewidth=0.5` keyword arguments to `plt.plot()`
 
@@ -106,7 +106,7 @@ Now, you will display your linear regression results on the scatter plot, the co
 
 ## Beak length to depth ratio
 
-[Task 8]()
+[Task 8](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_05_Task8.py)
 
 The linear regressions showed interesting information about the beak geometry. The slope was the same in 1975 and 2012, suggesting that for every millimeter gained in beak length, the birds gained about half a millimeter in depth in both years. However, if we are interested in the shape of the beak, we want to compare the ratio of beak length to beak depth. Let's make that comparison.
 
@@ -122,7 +122,7 @@ Generate 10,000 bootstrap replicates each for the mean ratio for 1975 and 2012 u
 
 ## EDA of heritability
 
-[Task 9]()
+[Task 9](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_05_Task9.py)
 
 The array `bd_parent_scandens` contains the average beak depth (in mm) of two parents of the species `G. scandens`. The array `bd_offspring_scandens` contains the average beak depth of the offspring of the respective parents. The arrays `bd_parent_fortis` and `bd_offspring_fortis` contain the same information about measurements from *G. fortis* birds.
 
@@ -135,7 +135,7 @@ Make a scatter plot of the average offspring beak depth (y-axis) versus average 
 
 ## Correlation of offspring and parental data
 
-[Task 10]()
+[Task 10](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_05_Task10.py)
 
 In an effort to quantify the correlation between offspring and parent beak depths, we would like to compute statistics, such as the Pearson correlation coefficient, between parents and offspring. To get confidence intervals on this, we need to do a pairs bootstrap.
 
@@ -153,7 +153,7 @@ You have already written a function to do pairs bootstrap to get estimates for p
 
 ## Pearson correlation of offspring and parental data
 
-[Task 11]()
+[Task 11](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_05_Task11.py)
 
 The Pearson correlation coefficient seems like a useful measure of how strongly the beak depth of parents are inherited by their offspring. Compute the Pearson correlation coefficient between parental and offspring beak depths for *G. scandens*. Do the same for *G. fortis*. Then, use the function you wrote in the last exercise to compute a 95% confidence interval using pairs bootstrap.
 
@@ -167,7 +167,7 @@ Remember, the data are stored in `bd_parent_scandens`, `bd_offspring_scandens`, 
 
 ## Measuring heritability
 
-[Task 12]()
+[Task 12](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_05_Task12.py)
 
 Remember that the Pearson correlation coefficient is the ratio of the covariance to the geometric mean of the variances of the two data sets. This is a measure of the correlation between parents and offspring, but might not be the best estimate of heritability. If we stop and think, it makes more sense to define heritability as the ratio of the covariance between parent and offspring to the variance of the parents alone. In this exercise, you will estimate the heritability and perform a pairs bootstrap calculation to get the 95% confidence interval.
 
@@ -185,7 +185,7 @@ Print the results.
 
 ## Is beak depth heritable at all in G. scandens?
 
-[Task 13]()
+[Task 13](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/02_05_Task13.py)
 
 The heritability of beak depth in *G. scandens* seems low. It could be that this observed heritability was just achieved by chance and beak depth is actually not really heritable in the species. You will test that hypothesis here. To do this, you will do a pairs permutation test.
 
