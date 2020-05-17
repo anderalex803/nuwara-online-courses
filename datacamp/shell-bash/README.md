@@ -66,6 +66,7 @@ Store a variable and print it:
 For loop (to print all `.csv` files in the folder `seasonal`)
 
 Script 1: `for filename in seasonal/*.csv; do echo $filename; done`
+
 Script 2:<br>
 ```
 seasons = seasonal/*.csv
