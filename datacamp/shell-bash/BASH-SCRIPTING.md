@@ -31,3 +31,21 @@ Convert Fahrenheit to celsius: `C = (F - 32) x (5/9)`
 Structure of computation (`STDIN`, `STDOUT`, and `ARGV`)
 
 ![image](https://user-images.githubusercontent.com/51282928/82185751-ec883800-9913-11ea-8d3e-a6a15fa44f8c.png)
+
+### [03_good_or_bad_model.sh]()
+
+![image](https://user-images.githubusercontent.com/51282928/82236886-fedb9380-995e-11ea-9afd-dedf35367f37.png)
+
+### [03_check_if_text_is_inside_file]()
+
+![image](https://user-images.githubusercontent.com/51282928/82237623-27b05880-9960-11ea-9d24-3e174a56b16f.png)
+
+### [03_glob_file.sh]()
+
+![image](https://user-images.githubusercontent.com/51282928/82238915-3435b080-9962-11ea-820d-4b2a7c6265eb.png)
+
+### [03_sorting_file_forloop.sh]()
+
+![image](https://user-images.githubusercontent.com/51282928/82239891-b2df1d80-9963-11ea-9fa7-b7b745ce717b.png)
+
+
