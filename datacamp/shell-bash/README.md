@@ -1,5 +1,7 @@
 # Introduction to Shell
 
+> **Note: This is the first course. The second course is "Introduction to Bash Scripting", see [BASH-SCRIPTING.md](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/shell-bash/BASH-SCRIPTING.md)**
+
 E.g in the directory there are 4 files in folder `seasonal`: `summer.csv`, `spring.csv`, `autumn.csv`, `winter.csv`
 
 ## Wildcards (`*`, `[]`, `{}`, `?`)
