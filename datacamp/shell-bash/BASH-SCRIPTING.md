@@ -23,3 +23,7 @@ On the terminal, run: `./script.sh`
 On the terminal, run: `bash script.sh Seoul`, then `bash script.sh Tallinn`
 
 ![image](https://user-images.githubusercontent.com/51282928/82156739-3850c800-98a7-11ea-855b-d39787ca931a.png)
+
+### [02_fahrenheit_to_celsius.sh]()
+
+Convert Fahrenheit to celsius: `C = (F - 32) x (5/9)`
