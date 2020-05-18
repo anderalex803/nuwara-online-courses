@@ -48,4 +48,10 @@ Structure of computation (`STDIN`, `STDOUT`, and `ARGV`)
 
 ![image](https://user-images.githubusercontent.com/51282928/82239891-b2df1d80-9963-11ea-9fa7-b7b745ce717b.png)
 
+### [03_case_weekday_or_weekend.sh]()
 
+![image](https://user-images.githubusercontent.com/51282928/82241511-7cef6880-9966-11ea-83a9-6114afa2a65c.png)
+
+### [03_case_sorting_file.sh]()
+
+![image](https://user-images.githubusercontent.com/51282928/82242255-bffe0b80-9967-11ea-89b0-377d2d71afde.png)
