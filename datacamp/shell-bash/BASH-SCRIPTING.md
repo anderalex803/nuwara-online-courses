@@ -27,3 +27,7 @@ On the terminal, run: `bash script.sh Seoul`, then `bash script.sh Tallinn`
 ### [02_fahrenheit_to_celsius.sh]()
 
 Convert Fahrenheit to celsius: `C = (F - 32) x (5/9)`
+
+Structure of computation (`STDIN`, `STDOUT`, and `ARGV`)
+
+![image](https://user-images.githubusercontent.com/51282928/82185751-ec883800-9913-11ea-8d3e-a6a15fa44f8c.png)
