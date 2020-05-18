@@ -6,6 +6,37 @@
 > * If using she-bang `#!/...`, use `./script.sh` to run the bash script you created `script.sh`
 > * If NOT using she-bang, use `bash script.sh` to run the bash script you created `script.sh`
 
+1. Searching a book with shell
+
+There is a copy of Charles Dickens's infamous 'Tale of Two Cities' in your home directory called two_cities.txt.
+
+Use command line arguments such as cat, grep and wc with the right flag to count the number of lines in the book that contain either the character 'Sydney Carton' or 'Charles Darnay'. Use exactly these spellings and capitalizations.
+
+`cat two_cities.txt | egrep 'Sydney Carton|Charles Darnay' | wc -l`
+
+2. Shell: `echo "right now it is date"`. Output: right now it is December 25 2020<br>
+double tick --> shell in a shell, backtick --> date<br>
+alternative: right now it is $(date)
+
+`dog_name='Messi'` (not a double tick)
+`dog_age=6`
+`echo "My dog's name is $dog_name and he is $dog_age years old"` 
+
+## Cronjobs
+
+```
+# Create a schedule for 30 minutes past 2am every day
+30 2 * * * bash script1.sh
+
+# Create a schedule for every 15, 30 and 45 minutes past the hour
+15,30,45 * * * * bash script2.sh
+
+# Create a schedule for 11.30pm on Sunday evening, every week
+30 23 * * 7 bash script3.sh
+```
+
+## Tough Practices
+
 ### [01_soccer_find_winner.sh]()
 
 On the terminal, run: `./script.sh`
@@ -55,3 +86,19 @@ Structure of computation (`STDIN`, `STDOUT`, and `ARGV`)
 ### [03_case_sorting_file.sh]()
 
 ![image](https://user-images.githubusercontent.com/51282928/82242255-bffe0b80-9967-11ea-89b0-377d2d71afde.png)
+
+### [04_function_what_day_is_today.sh]()
+
+![image](https://user-images.githubusercontent.com/51282928/82243720-46b3e800-996a-11ea-8067-dec9fb257d6d.png)
+
+### [04_function_percentage_calculator.sh]()
+
+![image](https://user-images.githubusercontent.com/51282928/82244838-0fded180-996c-11ea-9639-60dbb26cf762.png)
+
+### [04_function_sport_analytics.sh]()
+
+![image](https://user-images.githubusercontent.com/51282928/82246011-2a19af00-996e-11ea-8465-83ee0e1318cd.png)
+
+### [04_function_summing_array.sh]()
+
+![image](https://user-images.githubusercontent.com/51282928/82247153-1d965600-9970-11ea-9cd5-c9f9d219b31f.png)
