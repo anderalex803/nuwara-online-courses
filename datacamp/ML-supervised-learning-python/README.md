@@ -15,4 +15,15 @@
 
 ![image](https://user-images.githubusercontent.com/51282928/82327990-749c3980-9a09-11ea-9eca-e38dbc20fd69.png)
 
-* ROC curve: model's threshold
+* ROC curve: model's threshold, y-axis is the Recall
+* Precision-recall curve: plotting the precision and recall for different thresholds. Precision and recall are defined as:
+
+`Precision = TP / (TP + FP)`<br>
+`Recall = TP / (TP + FN)`
+
+![image](https://user-images.githubusercontent.com/51282928/82346306-7b827680-9a20-11ea-9563-7acf4a7293cb.png)
+
+1. If the recall is high, the precision drops
+2. In the case when there are no true positives or true negatives, precision is 0/0, which is undefined.
+3. When the threshold is very close to 1, precision is also 1, because the classifier is absolutely certain about its predictions.
+
