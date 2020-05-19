@@ -46,6 +46,10 @@ Also contains the sequel of this course [Introduction to Bash Scripting](https:/
 
 Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/ML-supervised-learning-python/README.md)
 
+### [Unsupervised Learning in Python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/ML-unsupervised-learning-python)
+
+Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/ML-unsupervised-learning-python/README.md)
+
 ## Free lecture recordings in YouTube
 
 1. [Continuum Mechanics](https://www.youtube.com/playlist?list=PLq-Gm0yRYwTg9gY-xhVpZ5LoctJVi-m2S) by Prof. Romesh Batra, Virginia Tech Uni
