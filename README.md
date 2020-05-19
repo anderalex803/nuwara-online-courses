@@ -26,23 +26,23 @@ A repo for my online courses from EdX, Coursera, etc.
 ## Datacamp courses
 > Each course has pdf materials and code scripts
 
-1. [Statistical Thinking in Python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/statistical-thinking-python) (Dr. Justin Bois, Caltech)
+### [Statistical Thinking in Python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/statistical-thinking-python) (Dr. Justin Bois, Caltech)
 
 Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/statistical-thinking-python/README.md)
 * Part 1 files initialized with `01_01_` for Chapter 1, `01_02_` for Chapter 2, and so on...
 * Part 2 files initialized with `02_01_` for Chapter 1, `02_02_` for Chapter 2, and so on...
 
-2. [Statistical Simulation in Python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/statistical-simulation-python) (Tushar Shanker, Uber)
+### [Statistical Simulation in Python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/statistical-simulation-python) (Tushar Shanker, Uber)
 
 Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/edit/master/datacamp/statistical-simulation-python/README.md)
 
-3. [Introduction to Shell](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/shell-bash)
+### [Introduction to Shell](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/shell-bash)
 
 Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/shell-bash/README.md). In this course, no scripts `.sh` are used.
 
 Also contains the sequel of this course [Introduction to Bash Scripting](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/shell-bash/BASH-SCRIPTING.md). The shell scripts `.sh` are stored in the [`shell-bash`](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/shell-bash) folder.
 
-4. [Supervised Learning with Scikit-learn in Python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/ML-supervised-learning-python)
+### [Supervised Learning with Scikit-learn in Python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/ML-supervised-learning-python)
 
 Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/ML-supervised-learning-python/README.md)
 
