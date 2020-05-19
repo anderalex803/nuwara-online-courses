@@ -38,13 +38,13 @@ Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwar
 
 3. [Introduction to Shell](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/shell-bash)
 
-Key insights from the course: [(https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/shell-bash/README.md)
+Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/shell-bash/README.md). In this course, no scripts `.sh` are used.
 
-Also contains the sequel of this course [Introduction to Bash Scripting]()
+Also contains the sequel of this course [Introduction to Bash Scripting](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/shell-bash/BASH-SCRIPTING.md). The shell scripts `.sh` are stored in the [`shell-bash`](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/shell-bash) folder.
 
 4. [Supervised Learning with Scikit-learn in Python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/ML-supervised-learning-python)
 
-Key insights from the course
+Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/ML-supervised-learning-python/README.md)
 
 ## Free lecture recordings in YouTube
 
