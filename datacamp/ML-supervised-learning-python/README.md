@@ -3,7 +3,10 @@
 ## Models
 1. K-Nearest Neighbor
 2. Linear regression
-3. Logistic regression
+3. Lasso regression (`L1` norm)
+4. Ridge regression (`L2` norm)
+5. Logistic regression
+6. Others (Elastic Net)
 
 * `01_mnist` practice order: `load_and_view.py` --> `split_and_accuracy.py` --> `overfit_or_underfit.py` 
 * correlation matrix: `sns.heatmap(df.corr(), square=True, cmap='RdYlGn')`
@@ -46,3 +49,9 @@
 (to decide the L1-to-L2 ratio the best to use for Elastic Net regression)
 
 ![image](https://user-images.githubusercontent.com/51282928/82353701-fbf9a500-9a29-11ea-9713-062663de9e04.png)
+
+## Data Prepro
+
+* Imputation within pipelin: parallelize the imputation step and the machine learning step at the same time rather than doing it step-by-step (See code: [04_imputation_within_pipeline_initialize.py]() --> [04_imputation_within_pipeline_predict.py]())
+
+
