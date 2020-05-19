@@ -36,9 +36,15 @@ Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwar
 
 Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/edit/master/datacamp/statistical-simulation-python/README.md)
 
-3. [Introduction to Shell]()
+3. [Introduction to Shell](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/shell-bash)
 
-Key insights from the course: [README.md]()
+Key insights from the course: [(https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/shell-bash/README.md)
+
+Also contains the sequel of this course [Introduction to Bash Scripting]()
+
+4. [Supervised Learning with Scikit-learn in Python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/ML-supervised-learning-python)
+
+Key insights from the course
 
 ## Free lecture recordings in YouTube
 
