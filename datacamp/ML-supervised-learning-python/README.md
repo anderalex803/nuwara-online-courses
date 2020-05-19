@@ -1,12 +1,13 @@
 # Key Points from Course Supervised Learning with Scikit-learn
 
-## Models
-1. K-Nearest Neighbor
-2. Linear regression
-3. Lasso regression (`L1` norm)
-4. Ridge regression (`L2` norm)
-5. Logistic regression
-6. Others (Elastic Net)
+## Models (types of Classifiers and Regressors)
+
+1. K-Nearest Neighbor --> classification
+2. Linear regression --> regression
+3. Lasso regression (`L1` norm) --> regression 
+4. Ridge regression (`L2` norm) --> regression
+5. Logistic regression --> regression
+6. Others (Elastic Net, `L1+L2` --> regression, Support Vector Classification --> classification)
 
 * `01_mnist` practice order: `load_and_view.py` --> `split_and_accuracy.py` --> `overfit_or_underfit.py` 
 * correlation matrix: `sns.heatmap(df.corr(), square=True, cmap='RdYlGn')`
@@ -54,4 +55,20 @@
 
 * Imputation within pipelin: parallelize the imputation step and the machine learning step at the same time rather than doing it step-by-step (See code: [04_imputation_within_pipeline_initialize.py]() --> [04_imputation_within_pipeline_predict.py]())
 
+## FUN!!! All-in-one Pipeline
 
+### Pipeline for classification
+
+Classifier: SVC
+
+![image](https://user-images.githubusercontent.com/51282928/82361873-ab884480-9a35-11ea-832b-3ea36b627b95.png)
+
+[04_pipeline_scaling+gridsearch+SVM.py](): This all-in-one pipeline combines steps from scaling data, do gridsearch to tune (search the best) hyperparameters `gamma` and `C` for SVC classifier, then do SVC classification to the splitted-train-test data (fitting the trained data until predicting the tested data)
+
+### Pipeline for regression
+
+Regressor: Elastic Net
+
+![image](https://user-images.githubusercontent.com/51282928/82361930-c1960500-9a35-11ea-8139-26c1e4277145.png)
+
+[04_pipeline_imputer+scaling+gridsearch+elasticnet.py](): This all-in-one pipeline combines steps from imputing missing data, scaling data, do gridsearch to tune (search the best) hyperparameters `l1_l2_ratio` for Elastic Net regressor, then do Elastic Net regression to the splitted-train-test data (fitting the trained data and measuring its accuracy)
