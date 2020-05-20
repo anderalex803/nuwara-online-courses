@@ -34,6 +34,18 @@ Applied to compute frequency of certain words in multiple documents
 
 ![image](https://user-images.githubusercontent.com/51282928/82429486-2f821100-9ab6-11ea-8473-60f31f4833bf.png)
 
-Application to a Wikipedia dataset. See [03_wikipedia.py](). Make a pipeline that contains Truncated SVD algorithm to reduce dimension as the first step, then chain to K-Means clustering, to sort the frequency of certain words/terms. 
+Application to a Wikipedia dataset. See [03_wikipedia_truncatedSVD.py](). Make a pipeline that contains Truncated SVD algorithm to reduce dimension as the first step, then chain to K-Means clustering, to sort the frequency of certain words/terms. 
 
 ![image](https://user-images.githubusercontent.com/51282928/82430639-cf8c6a00-9ab7-11ea-9c07-c37726068748.png)
+
+## Non-Negative Matrix Factorization (NMF)
+
+Applied to compute frequency of certain words in multiple documents, image encoding, audio spectrographs, etc.
+
+Application to a Wikipedia dataset. Result below represents the `NMF = 3` result for both actors `Anne Hathaway` and `Denzel Washington`, pointing out to the topics associated these names, which are `acting`. See [04_wikipedia_NMF.py]()
+
+![image](https://user-images.githubusercontent.com/51282928/82432829-ca7cea00-9aba-11ea-8f64-6b34edff3ed8.png)
+
+Also NMF can recognize the topics which belongs to certain words, e.g. the same `Anne Hathaway` and `Denzel Washington`. NMF for the topic `film` is 0.6, meaning that the words belong to topic `film`. See [04_wikipedia_NMF_learn_topics.py]()
+
+![image](https://user-images.githubusercontent.com/51282928/82435215-2ac15b00-9abe-11ea-8d4a-f0e8cf63228c.png)
