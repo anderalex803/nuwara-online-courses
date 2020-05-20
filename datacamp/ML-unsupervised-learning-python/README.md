@@ -42,10 +42,36 @@ Application to a Wikipedia dataset. See [03_wikipedia_truncatedSVD.py](). Make a
 
 Applied to compute frequency of certain words in multiple documents, image encoding, audio spectrographs, etc.
 
-Application to a Wikipedia dataset. Result below represents the `NMF = 3` result for both actors `Anne Hathaway` and `Denzel Washington`, pointing out to the topics associated these names, which are `acting`. See [04_wikipedia_NMF.py]()
+### Application to a Wikipedia dataset. 
+
+* Result below represents the `NMF = 3` result for both actors `Anne Hathaway` and `Denzel Washington`, pointing out to the topics associated these names, which are `acting`. See [04_wikipedia_NMF.py]()
 
 ![image](https://user-images.githubusercontent.com/51282928/82432829-ca7cea00-9aba-11ea-8f64-6b34edff3ed8.png)
 
 Also NMF can recognize the topics which belongs to certain words, e.g. the same `Anne Hathaway` and `Denzel Washington`. NMF for the topic `film` is 0.6, meaning that the words belong to topic `film`. See [04_wikipedia_NMF_learn_topics.py]()
 
 ![image](https://user-images.githubusercontent.com/51282928/82435215-2ac15b00-9abe-11ea-8d4a-f0e8cf63228c.png)
+
+### Application to LED digit encoding (PCA can't perform well)
+
+![image](https://user-images.githubusercontent.com/51282928/82435703-e4b8c700-9abe-11ea-8df8-9c148d34d678.png)
+
+![image](https://user-images.githubusercontent.com/51282928/82436788-95739600-9ac0-11ea-973a-31ba958003ac.png)
+
+Each of these features represent the intensity of each bars:
+
+![image](https://user-images.githubusercontent.com/51282928/82436545-3150d200-9ac0-11ea-8281-a0fa8a1872c7.png)
+
+## Cosine Similarity: Build a Recommender System using NMF. See [04_NMF_music_recommender_system]()
+
+* Create pipeline to first scale the data, then NMF, then normalize.
+
+![image](https://user-images.githubusercontent.com/51282928/82438267-f4d2a580-9ac2-11ea-9c5e-7d7ae80f3c4a.png)
+
+* Suppose you like `Bruce Springsteen`, this recommender system will recommend you **what other musicians might you like?** using **NMF** to cluster the similar topics between the musicians, then do **cosine similarity**
+
+![image](https://user-images.githubusercontent.com/51282928/82439004-213af180-9ac4-11ea-9f34-564ab7a1d4c4.png)
+
+Output:
+
+![image](https://user-images.githubusercontent.com/51282928/82438716-b4275c00-9ac3-11ea-9915-892484fe3f98.png)
