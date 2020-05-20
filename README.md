@@ -65,7 +65,7 @@ Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwar
 * Support Vector Machine
 * *Stochastic Gradient Descent*
 
-## [Tree-based Models in Python](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/ML-tree-python)
+### [Tree-based Models in Python](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/ML-tree-python)
 
 Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/ML-tree-python/README.md)
 
