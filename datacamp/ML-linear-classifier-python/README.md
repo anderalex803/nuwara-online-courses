@@ -1,3 +1,4 @@
 # Key Lessons from couse Linear Classifiers in Python
 
 * The theory behind the **decision boundary** of linear classifiers (logistic regression and SVC): `raw model output = coefficient * X_test + intercept`. If the result is negative, it predicts the data into one class (`0`), if positive it predicts to another class `1`. This `0` and `1` class are associated with the `y_test`
+* **Least square loss function is least favorable** ([02_minimizing_loss_function_squared.py]()). So, we could use **logistic loss function** for **logistic regression**, and **hinge loss function** for SVM (more on this: [02_log_and_hinge_loss_function.py]()). From this function, `log_loss` is used for a logistic regression from scratch, and compare it to `scikit learn LogistisRegression` (more on this: [02_logistic_regression.py]()). Both results are the same!
