@@ -46,9 +46,31 @@ Also contains the sequel of this course [Introduction to Bash Scripting](https:/
 
 Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/ML-supervised-learning-python/README.md)
 
+* K-Nearest Neighbor
+* Logistic Regression
+
 ### [Unsupervised Learning in Python](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/ML-unsupervised-learning-python)
 
 Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/tree/master/datacamp/ML-unsupervised-learning-python/README.md)
+
+* K-Means Clustering
+* Hierarchial Clustering
+* t-SNE Mapping
+
+### [Linear Classifier in Python](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/ML-linear-classifier-python)
+
+Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/ML-linear-classifier-python/README.md)
+
+* Logistic Regression
+* Support Vector Machine
+* *Stochastic Gradient Descent*
+
+## [Tree-based Models in Python](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/ML-tree-python)
+
+Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/ML-tree-python/README.md)
+
+* Decision Tress
+* Boosting (AdaBoost, Gradient Boost)
 
 ## Free lecture recordings in YouTube
 
