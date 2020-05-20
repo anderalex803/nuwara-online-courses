@@ -1,10 +1,10 @@
-# this is linked to another script 03_wikipedia_NMF.py
+# this is linked to another script 04_wikipedia_NMF.py
 
 # Import pandas
 import pandas as pd
 
 # Create a DataFrame: components_df
-# the following "model" is from the another script 03_wikipedia_NMF.py
+# the following "model" is from the another script 04_wikipedia_NMF.py
 components_df = pd.DataFrame(model.components_, columns=words)
 
 # Print the shape of the DataFrame
