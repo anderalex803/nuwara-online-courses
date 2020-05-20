@@ -21,3 +21,19 @@ In scipy: Complete --> `linkage(..., method='complete')`, Single --> `linkage(..
 ## t-SNE Clustering
 
 ![image](https://user-images.githubusercontent.com/51282928/82416030-9b0eb300-9aa3-11ea-81dc-c5c297515db1.png)
+
+## Intrinsic dimension
+
+Knowing the intrinsic dimension helps us to reduce the dimension e.g. from 5 or more features into lesser features. Important for unsupervised learning. See [03_PCA_evaluate_intrinsic_dimension.py]()
+
+![image](https://user-images.githubusercontent.com/51282928/82426702-62c2a100-9ab2-11ea-94f3-4b918ed101aa.png)
+
+## Tf-idf Vectorizer and Truncated SVD
+
+Applied to compute frequency of certain words in multiple documents
+
+![image](https://user-images.githubusercontent.com/51282928/82429486-2f821100-9ab6-11ea-8473-60f31f4833bf.png)
+
+Application to a Wikipedia dataset. See [03_wikipedia.py](). Make a pipeline that contains Truncated SVD algorithm to reduce dimension as the first step, then chain to K-Means clustering, to sort the frequency of certain words/terms. 
+
+![image](https://user-images.githubusercontent.com/51282928/82430639-cf8c6a00-9ab7-11ea-9c07-c37726068748.png)
