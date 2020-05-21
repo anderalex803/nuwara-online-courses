@@ -64,3 +64,5 @@ See more: [04_gradient_boosting.py](). The `metric` to evaluate is Root Mean Squ
 SGBT uses the same `GradientBoostingRegressor` function, but now added with more parameters such as `max_features` and `subsample` (how many percent data will be sampled)
 
 See more: [04_stochastic_gradient_boosting.py](). The `metric` to evaluate is Root Mean Squared Error (RMSE)
+
+## Hyperparameter Tuning
