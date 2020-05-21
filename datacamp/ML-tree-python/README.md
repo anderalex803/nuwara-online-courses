@@ -30,3 +30,12 @@ Steps:
 ![image](https://user-images.githubusercontent.com/51282928/82550824-56f5de00-9b89-11ea-8b22-c05723a6ebce.png)
 
 ![image](https://user-images.githubusercontent.com/51282928/82550900-73921600-9b89-11ea-85bd-4910f0b57f87.png)
+
+## Ensemble Learning 
+
+**See: [02_ensemble_knn+logistic+decisiontree.py]()**
+
+* Combine multiple models to a meta-model, purpose --> increasing accuracy
+* Techniques: **Voting Classifier**
+
+
