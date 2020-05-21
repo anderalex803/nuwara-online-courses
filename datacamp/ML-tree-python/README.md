@@ -4,7 +4,29 @@
 
 * Terms in decision tree: feature `f`, split point `sp`. Its anatomy is defined by root, node, and leaf.
 * The aim of decision tree is to maximize the Information Gain `IG`
-* The hyperparameter is the `criterion` (e.g. `gini` or `entropy`) and the `maximum depth` (like in hierarchial clustering)
+* The hyperparameter is the `minimum samples per leaf` and the `maximum depth` (like in hierarchial clustering)
+* Two kinds of criterion: `gini` and `entropy`. Both produce same accuracy, but `gini` is faster.
 * Decision tree is used for both **classification** (as a classifier) and **regression** (as regressor)
 
 ![image](https://user-images.githubusercontent.com/51282928/82547179-7f7ad980-9b83-11ea-8550-317a5c440ecd.png)
+
+## Bias-Variance Tradeoff
+
+As complexity increases (`higher maximum depth` and `min samples per leaf`), bias decreases while variance increases. 
+
+![image](https://user-images.githubusercontent.com/51282928/82549073-8f47ed00-9b86-11ea-85de-91a53e1609eb.png)
+
+* To diagnose bias and variance, do **Cross Validation** (CV)
+* Types of CV: **K-Fold** and **Hold-out**. K-fold will split the data randomly into trains and tests, `X` times (e.g. 5 times for 5-fold, 10 times for 10-fold, etc)
+
+#### [02_cross_validation_diagnose_bias_variance.py]() is a good practice to decide if our selected parameters for a model resulting high variance / high bias
+
+Steps:
+* Step 1. Instantiate an ML model: DecisionTree
+* Step 2. Compute Root Mean Squared error mean from CV
+* Step 3. Compute RMSE of the train set
+* Step 4. Decide if it has high variance or high bias
+
+![image](https://user-images.githubusercontent.com/51282928/82550824-56f5de00-9b89-11ea-8b22-c05723a6ebce.png)
+
+![image](https://user-images.githubusercontent.com/51282928/82550900-73921600-9b89-11ea-85bd-4910f0b57f87.png)
