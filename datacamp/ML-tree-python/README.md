@@ -1,4 +1,4 @@
-# Key Lessons from Course Tree-Models in Python
+# Key Lessons from Course Tree-Models (CART) in Python
 
 ## Decision Tree
 
@@ -50,3 +50,17 @@ Steps:
 
 * We can evaluate which features are important to fit and predict the data.
 * See more: [03_random_forest_regressor.py]()
+
+### Adaboost (Adaptive Boosting)
+
+See more: [04_adaboost_roc_auc_scoring.py](). This time the `metric` to evaluate is not `accuracy`, but `ROC AUC score` (see previous course Supervised Learning with scikit-learn)
+
+### Gradient Boosting
+
+See more: [04_gradient_boosting.py](). The `metric` to evaluate is Root Mean Squared Error (RMSE)
+
+### Stochastic Gradient Boosting
+
+SGBT uses the same `GradientBoostingRegressor` function, but now added with more parameters such as `max_features` and `subsample` (how many percent data will be sampled)
+
+See more: [04_stochastic_gradient_boosting.py](). The `metric` to evaluate is Root Mean Squared Error (RMSE)
