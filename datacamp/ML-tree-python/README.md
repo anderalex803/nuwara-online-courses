@@ -33,9 +33,20 @@ Steps:
 
 ## Ensemble Learning 
 
+* Combine multiple models to a meta-model, purpose --> increasing accuracy
+* 3 techniques: Voting Classifier, Bagging, Random Forest
+
+### Voting Classifier
+
 **See: [02_ensemble_knn+logistic+decisiontree.py]()**
 
-* Combine multiple models to a meta-model, purpose --> increasing accuracy
-* Techniques: **Voting Classifier**
+### Bagging (Bootstrap Aggregation),
 
+* For classfication and regression
+* Increase accuracy
+* Averagely 63% of data are bootstrap sampled, while the 37% aren't sampled --> Out-of Bag (OOB)
 
+### Random Forest
+
+* We can evaluate which features are important to fit and predict the data.
+* See more: [03_random_forest_regressor.py]()
