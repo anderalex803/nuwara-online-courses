@@ -13,4 +13,6 @@
 * Metrics: Mean Absolute Error (MAE), Mean Squared Error (MSE)
 * We could measure how one class is better predicted than the other class by comparing its MAE. See also [02_mean_absolute_error_one_class.py]()
 
+In the following, 9% error in prediction for `chocolate` class, and 11% error in prediction for `non-chocolate`. So, `chocolate` class has better prediction.
+
 ![image](https://user-images.githubusercontent.com/51282928/82670108-bd046300-9c66-11ea-8da3-b63a14459759.png)
