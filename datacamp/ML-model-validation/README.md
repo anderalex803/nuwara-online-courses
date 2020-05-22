@@ -37,3 +37,12 @@ recall = (491) / (491 + 123)
 print("The recall is {0: 0.2f}".format(recall))
 ```
 
+## Hold-out split is problem when limitted data, Cross Validation is the Solution
+
+* CV score is calculated by splitting the data into 5, 10, etc folds then averaging its scores 
+* More reliable 
+* **Leave-one-out CV (LOOCV)**, the folds are the number of observations --> validation is every point. `cv=n` where `n` is number of observations
+
+## Randomized Search CV
+
+* See [04_random_search_print_best_model]() to implement how to print the model accuracies for different parameters searched
