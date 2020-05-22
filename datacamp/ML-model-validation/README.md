@@ -16,3 +16,24 @@
 In the following, 9% error in prediction for `chocolate` class, and 11% error in prediction for `non-chocolate`. So, `chocolate` class has better prediction.
 
 ![image](https://user-images.githubusercontent.com/51282928/82670108-bd046300-9c66-11ea-8da3-b63a14459759.png)
+
+* 3 metrics: 1. Accuracy (`(TN + TP) / total_observation`), 2. Precision (`TP / (TP + FP)`), 3. Recall (`TP / (TP + FN)`); Where `TP` true positive, `TN` true negative, `FP` false positive, and `FN` false negative
+
+See implementation for **confusion matrix** in sklearn [02_confusion_matrix.py] and for **metric score** [02_metric_score.py](), in this case is the **precision** metric. 
+
+![image](https://user-images.githubusercontent.com/51282928/82678600-10c97900-9c74-11ea-9169-e63654072376.png)
+
+```
+# Calculate and print the accuracy
+accuracy = (491 + 324) / (953)
+print("The overall accuracy is {0: 0.2f}".format(accuracy))
+
+# Calculate and print the precision
+precision = (491) / (491 + 15)
+print("The precision is {0: 0.2f}".format(precision))
+
+# Calculate and print the recall
+recall = (491) / (491 + 123)
+print("The recall is {0: 0.2f}".format(recall))
+```
+
