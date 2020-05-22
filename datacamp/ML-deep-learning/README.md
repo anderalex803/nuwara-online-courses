@@ -22,6 +22,8 @@ See more [04_keras_nn_for_classification.py]
 
 ## Model Optimization: the loss function must improve over increasing epochs of training
 
+Implement **our own optimizer** by varying learning rate, See: [04_optimize_model_neural_network.py]()
+
 * Use **stochastic gradient descent** (`sgd`) with different **learning rates**
 * The **dying neuron problem** --> ReLu makes some neuron 0, slope also 0, so model can't update. Strategy --> `tanh` and `sigmoid` activation function
 * The **vanishing gradient** problem 
