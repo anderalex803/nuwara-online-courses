@@ -69,8 +69,17 @@ Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwar
 
 Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/ML-tree-python/README.md)
 
-* Decision Tress
-* Boosting (AdaBoost, Gradient Boost)
+* Decision Trees
+* Random Forest
+* Ensemble Learning: Voting Classifier, Boosting (AdaBoost, Gradient Boost, Stochastic Gradient Boost)
+
+### [Introduction to Deep Learning in Python](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/ML-deep-learning)
+
+Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/ML-deep-learning/README.md)
+
+### [ARIMA Models in Python](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/ARIMA)
+
+Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/datacamp/ARIMA/README.md)
 
 ## Free lecture recordings in YouTube
 
