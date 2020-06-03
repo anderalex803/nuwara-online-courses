@@ -83,11 +83,12 @@ Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwar
 
 ## Free lecture recordings in YouTube
 
-1. [Continuum Mechanics](https://www.youtube.com/playlist?list=PLq-Gm0yRYwTg9gY-xhVpZ5LoctJVi-m2S) by Prof. Romesh Batra, Virginia Tech Uni
-2. [Finite Element Analysis](https://www.youtube.com/watch?v=oNqSzzycRhw) by Prof. Klaus-Jürgen Bathe, MIT
-3. [Computational Fluid Dynamics](https://www.youtube.com/playlist?list=PL30F4C5ABCE62CB61) by Prof. Lorena Barba, George Washington Uni
-4. [Reservoir Simulation](https://www.youtube.com/channel/UCkCwNnLZnRoaHYFyKTdySDw) by Prof. John T. Foster, UT Austin
-5. [Reservoir Geomechanics](https://www.youtube.com/channel/UCFZu4RgaS8pKsfO75979fvg/playlists) by Dr. Nicolas Espinoza, UT Austin
+1. [Numerical Methods](https://www.youtube.com/channel/UCtXs16H04R0SSeRI8UEXMxw)
+2. [Continuum Mechanics](https://www.youtube.com/playlist?list=PLq-Gm0yRYwTg9gY-xhVpZ5LoctJVi-m2S) by Prof. Romesh Batra, Virginia Tech Uni
+3. [Finite Element Analysis](https://www.youtube.com/watch?v=oNqSzzycRhw) by Prof. Klaus-Jürgen Bathe, MIT
+4. [Computational Fluid Dynamics](https://www.youtube.com/playlist?list=PL30F4C5ABCE62CB61) by Prof. Lorena Barba, George Washington Uni
+5. [Reservoir Simulation](https://www.youtube.com/channel/UCkCwNnLZnRoaHYFyKTdySDw) by Prof. John T. Foster, UT Austin
+6. [Reservoir Geomechanics](https://www.youtube.com/channel/UCFZu4RgaS8pKsfO75979fvg/playlists) by Dr. Nicolas Espinoza, UT Austin
 
 ## Free courseware materials
 
