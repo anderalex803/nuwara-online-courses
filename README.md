@@ -102,7 +102,7 @@ Key insights from the course: [README.md](https://github.com/yohanesnuwara/nuwar
 
 ## Materials, Notebooks, Github for Scientific Computation and PDEs
 
-1. Hans Petter Langtangen [Github](https://github.com/hplgit/prog4comp/tree/master/src/py/) linked to his [book](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/books/Langtangen%20-%20Programming%20for%20Computations%20with%20Python.pdf) "Programming for Computation with Python" (+ ODE/PDE)
+1. Hans Petter Langtangen [Github](https://github.com/hplgit/prog4comp/tree/master/src/py/) and [HTML](http://hplgit.github.io/Programming-for-Computations/pub/p4c/._p4c-bootstrap-Python001.html) version linked to his [book](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/books/Langtangen%20-%20Programming%20for%20Computations%20with%20Python.pdf) "Programming for Computation with Python" (+ ODE/PDE)
 2. Hans Petter Langtangen [Github](https://github.com/hplgit/scipro-primer) linked to his [book](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/books/Langtangen_APrimerOnScientificProgramming_Python.pdf) "A Primer on Scientific Programming with Python" (+ ODE/PDE)
 3. jrjohansson [Github](https://github.com/jrjohansson/scientific-python-lectures) linked to his [PDF materials](https://github.com/yohanesnuwara/nuwara-online-courses/blob/master/books/Scientific-Computing-with-Python.pdf) "Scientific Computing with Python"
 4. juanklopper [Github](https://github.com/juanklopper/Differential-Equations)
